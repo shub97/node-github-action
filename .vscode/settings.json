@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://www.schemastore.org/github-workflow.json": "file:///c%3A/Users/Shubham/Desktop/nodejs/node-github-action/.github/workflow/main.yml"
+    }
+}

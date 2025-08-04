@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="bk001">
+    <title>The Great Adventure</title>
+    <author>Jane Doe</author>
+    <year>2020</year>
+    <genre>Fantasy</genre>
+    <description>A thrilling tale of heroes and magic.</description>
+  </book>
+  <book id="bk002">
+    <title>Cooking for Beginners</title>
+    <author>John Smith</author>
+    <year>2018</year>
+    <genre>Cookbook</genre>
+    <description>Simple recipes for aspiring chefs.</description>
+  </book>
+  <magazine id="mg001">
+    <title>Tech Innovations</title>
+    <issue>Spring 2025</issue>
+    <editor>Emily White</editor>
+  </magazine>
+</library>
